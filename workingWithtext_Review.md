@@ -13,3 +13,4 @@ Great job! You just learned about how to work with textual data in a few differe
 
 - Write a program that randomly converts part of a text to uppercase and lowercase to look like randomcase.
 - Write a program that takes in a series of random words to construct an automated poem, in the style of e.e. cummings.
+
