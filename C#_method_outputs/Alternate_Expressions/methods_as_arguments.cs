@@ -27,3 +27,5 @@ namespace AlternateExpressions
     }
   }
 }
+
+// RETURN: < The first long word is: mountainous >
