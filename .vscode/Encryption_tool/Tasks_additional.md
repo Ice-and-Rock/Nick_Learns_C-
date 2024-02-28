@@ -1,6 +1,6 @@
 ### You built an automated encryption engine that your team can use to communicate in secrecy. The hackathon is all but won!
 
-If you’d like, you can keep building on your app:
+# Additional points to keep building:
 
 The app doesn’t work with uppercase letters. Fix that by converting any message to lowercase.
 The app doesn’t work with symbols, like ! or ?. Skip any symbols in your loop so that they are not encrypted.

@@ -1,4 +1,4 @@
-// below is code to show you show to decalre arrays
+// below is code to show you show to declare arrays
 
 int[] plantHeights = { 3, 4, 6 };
 
