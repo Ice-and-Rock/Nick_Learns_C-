@@ -1,5 +1,6 @@
 // Ceaser Cipher 🥷
 // The following code will prompt the user to input a sentence, then return an encrypted version of their message
+// Uses dotnet in the terminal.
 // Enjoy!
 
 using System;
