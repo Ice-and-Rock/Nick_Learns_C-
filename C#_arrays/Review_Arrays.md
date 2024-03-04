@@ -11,6 +11,9 @@ Congratulations, we covered a lot in this lesson! We learned about:
 
 For general conceptual information, read the programming guide on Arrays
 For specific information on methods like Find(), read the Array class documentation
+...all found on the Microsoft site
+
+## Practice
 
 Instructions
-Time for some practice! Use the code editor to play around with what you learned in this lesson.
+- Time for some practice! Use the code editor to play around with what you learned in this lesson.
