@@ -1,7 +1,6 @@
 // True or False game
 // the following game promps the user to take part in a true or false quiz 
 // - based on hard-coded data
-
 using System;
 
 namespace TrueOrFalse
@@ -45,10 +44,15 @@ namespace TrueOrFalse
         }
       responses[askingIndex] = inputBool;
       askingIndex ++;
-      foreach(bool response in responses)
-        {
+
+      // print the current answers array after all the Q's are done
+      if(askingIndex == answers.Length) {
+        Console.WriteLine("your answers:");
+        foreach(bool response in responses)
+          {
         Console.WriteLine(response);
-        }
+          }
+      }
       }
 
     }
